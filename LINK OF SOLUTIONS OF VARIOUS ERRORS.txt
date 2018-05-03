@@ -1,0 +1,8 @@
+
+
+Consider defining a bean of type 'org.hibernate.SessionFactory' in your configuration
+https://stackoverflow.com/questions/45120775/consider-defining-a-bean-of-type-org-hibernate-sessionfactory-in-your-configur
+
+
+Spring Boot + Hibernate 5 + Mysql Example
+http://www.devglan.com/spring-boot/spring-boot-hibernate-5-example
